@@ -4,23 +4,24 @@
 * Сео-френдли;
 * Кроссбраузерность, стараться поддреживать браузеры которые используют пользователи. 
 	Список браузеров которыми пользуется больше 1% пользователей на 1.12.2012г.:
-	** Google Chrome 23.0
-	** Firefox 16.0
-	** Opera 12.11
-	** MSIE 9.0
-	** Firefox 17.0
-	** MSIE 8.0
-	** Opera 12.02
-	** Opera 12.10
-	** Интернет@Mail.ru 17.0
-	** Mobile Safari 6.0
-	** Mobile Safari 4.0
-	** Mobile Safari 5.1
-	** Google Chrome 18.0
-	** Яндекс.Браузер 1.1
-	** Opera 12.01
-	** Opera Mini 7.0
-	Пересматривать этот список раз в 3-6 месяцев;
+
+Google Chrome 23.0
+Firefox 16.0
+Opera 12.11
+MSIE 9.0
+Firefox 17.0
+MSIE 8.0
+Opera 12.02
+Opera 12.10
+Интернет@Mail.ru 17.0
+Mobile Safari 6.0
+Mobile Safari 4.0
+Mobile Safari 5.1
+Google Chrome 18.0
+Яндекс.Браузер 1.1
+Opera 12.01
+Opera Mini 7.0
+Пересматривать этот список раз в 3-6 месяцев;
 * продумывать структуру удобную для програмистов и прислушиваться к просьбам относительно кода.
 
 ## Многослойный CSS - свод правил написания css
@@ -300,22 +301,23 @@ Cтандарт форм:
 #### Словарь сокращений
 Что бы не раздувать названия классов, используется словарь популярных сокращений:
 
-	i — item
-	tx — text
-	itx — input text
-	ico — icon
-	t — title
-	f — footer
-	h — header
-	col — column
-	cnt — content
-	img — image
 	a — link
 	act — action
-	usr — user
+	b - block
+	cnt — content
+	col — column
 	err — error
+	f — footer
+	h — header
 	hold - holder
-	w - wrapper 
+	i — item
+	ico — icon
+	img — image
+	itx — input text
+	t — title
+	tx — text
+	usr — user
+	w - wrapper
 
 Будет пополняться.
 
